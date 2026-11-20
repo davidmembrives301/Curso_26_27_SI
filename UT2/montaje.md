@@ -1,7 +1,5 @@
 # SI · UT2 — Ficha de taller: montaje y revisión de un ordenador
 
-https://gtihub.com/isaiasfl/entorno-nvim
-
 
 # UT2 · Práctica de montaje de equipo
 
